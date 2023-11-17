@@ -1,4 +1,4 @@
-#In Git, the process of updating your GitHub repository with changes from your local development environment involves a series of steps. It's not automatic, and you need to manually commit and push changes to GitHub. Here's a general workflow:
+# In Git, the process of updating your GitHub repository with changes from your local development environment involves a series of steps. It's not automatic, and you need to manually commit and push changes to GitHub. Here's a general workflow:
 
 1. **Make Changes in Your Local Repository:**
    - Edit, add, or delete files within your project directory.
